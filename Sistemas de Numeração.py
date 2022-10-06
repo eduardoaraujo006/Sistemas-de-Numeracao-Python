@@ -25,9 +25,9 @@ def menu_de_escolha():
         n = int (input("Escolha o número decimal a ser convertido para binário: "))
         dec_to_bin(n)
     elif escolha == 2:
-        n = int (input("Escolha o número decimal a ser convertido para Binario: "))
+        n = int (input("Escolha o número decimal a ser convertido para octal: "))
     elif escolha == 3:
-        n = int (input("Escolha o número decimal a ser convertido para Binario: "))
+        n = int (input("Escolha o número decimal a ser convertido para hecadecimal: "))
         
 
 # Função de Conversão de Decimal para Binário

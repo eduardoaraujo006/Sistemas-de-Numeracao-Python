@@ -1,0 +1,1 @@
+- Um pequeno estudo sobre sistemas de númeração.
